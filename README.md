@@ -1,6 +1,7 @@
 # Harsh Bhardwaj
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harsh-bhardwaj-90586a205/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Harshsfd)
 [![Email](https://img.shields.io/badge/Email-harshbhardwaj1511@gmail.com-red?style=flat&logo=gmail)](mailto:harshbhardwaj1511@gmail.com)
 
 ---
@@ -47,31 +48,32 @@ May 2021 - Aug 2021
 
 ## 🛠️ Skills
 
-- **HTML & CSS:** Intermediate
-- **JavaScript:** Beginner
-- **Python:** Intermediate
-- **SQL:** Beginner
-- **Bootstrap:** Intermediate
-- **C/C++ Programming:** Intermediate
-- **Java:** Beginner
-- **PHP:** Beginner
-- **WordPress:** Beginner
-- **Google Analytics:** Beginner
-- **Node.js:** Beginner
-- **Data Structures:** Beginner
+![HTML5](https://img.shields.io/badge/HTML5-HTML5-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-CSS3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-yellow?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Python-Python-blue?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-SQL-lightgrey?style=flat&logo=sqlite)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Bootstrap-purple?style=flat&logo=bootstrap)
+![C++](https://img.shields.io/badge/C%2B%2B-C%2B%2B-blue?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-Java-red?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/PHP-PHP-blue?style=flat&logo=php)
+![WordPress](https://img.shields.io/badge/WordPress-WordPress-blue?style=flat&logo=wordpress)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-Google_Analytics-blue?style=flat&logo=google-analytics)
+![Node.js](https://img.shields.io/badge/Node.js-Node.js-green?style=flat&logo=node.js)
+![Data Structures](https://img.shields.io/badge/Data_Structures-Data_Structures-green?style=flat)
 
 ---
 
 ## 📚 Training & Certifications
 
-- **Bootstrap 5:** Udemy, Online (Mar 2023 - Present)
-- **JavaScript:** HackerRank, Online (Jan 2023 - Feb 2023)
-- **Google Analytics:** Google, Online (Jan 2023 - Feb 2023)
-- **SQL (Basic & Intermediate):** HackerRank, Online (Jan 2023 - Feb 2023)
-- **Python:** HackerRank, Online (Nov 2022 - Jan 2023)
-- **Android Web Development:** LearnVern, Online (Sep 2021 - Dec 2021)
-- **CSS3:** Sololearn, Online (Aug 2021 - Nov 2021)
-- **HTML5:** Sololearn, Online (Apr 2021 - Jul 2021)
+[![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-Udemy-brightgreen?style=flat&logo=udemy)](https://www.udemy.com/course/bootstrap-5/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-HackerRank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/)
+[![Google Analytics](https://img.shields.io/badge/Google_Analytics-Google-blue?style=flat&logo=google)](https://analytics.google.com/)
+[![SQL](https://img.shields.io/badge/SQL_HackerRank-HackerRank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/)
+[![Python](https://img.shields.io/badge/Python-HackerRank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/)
+[![Android Web Development](https://img.shields.io/badge/Android_Web_Development-LearnVern-blue?style=flat&logo=learnvern)](https://www.learnvern.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-Sololearn-blue?style=flat&logo=sololearn)](https://www.sololearn.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-Sololearn-blue?style=flat&logo=sololearn)](https://www.sololearn.com/)
 
 ---
 
@@ -116,4 +118,3 @@ May 2021 - Aug 2021
 ---
 
 Feel free to connect with me for collaborations, opportunities, or just to chat about technology and beyond!
-
