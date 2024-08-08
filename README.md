@@ -36,7 +36,8 @@ Hello! I'm Harsh Bhardwaj, a dedicated Front-End Developer and B.Tech student sp
 **Full Stack Developer**
 *Extion Infotech*
 July 2024 - Sep 2024
-- 8 Weeks Internship and also complete a 4 task create a project like - Qwiz Game, portfolio, ecommerce website and E learning website 
+- 8 Weeks Internship and also complete a 4 task create a project like - Qwiz Game, portfolio, ecommerce website and E learning website
+
 **Junior Software Developer**  
 *Pie Infocomm Pvt. Ltd., Noida*  
 Jun 2022 - Aug 2022  
