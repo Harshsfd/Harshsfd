@@ -17,22 +17,26 @@ Hello! I'm Harsh Bhardwaj, a dedicated Front-End Developer and B.Tech student sp
 **B.Tech in Computer Science Engineering**  
 *State Institute of Engineering & Technology, Nilokheri*  
 2022 - 2025  
-**CGPA:** 8.90/9
+**CGPA:** 7.5
 
 **Diploma in Computer Science**  
 *Guru Brahmanand Ji Govt. Polytechnic, Nilokheri*  
 2019 - 2022  
-**CGPA:** 7.90/8
+**CGPA:** 7.90
 
 **Secondary (X)**  
 *Saraswati Vidya Mandir Senior Secondary School, Safidon*  
 2019  
-**CGPA:** 8.00/10
+**CGPA:** 8.00
 
 ---
 
 ## 💼 Experience
 
+**Full Stack Developer**
+*Extion Infotech*
+July 2024 - Sep 2024
+- 8 Weeks Internship and also complete a 4 task create a project like - Qwiz Game, portfolio, ecommerce website and E learning website 
 **Junior Software Developer**  
 *Pie Infocomm Pvt. Ltd., Noida*  
 Jun 2022 - Aug 2022  
