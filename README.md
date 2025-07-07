@@ -1,6 +1,6 @@
 # Harsh Bhardwaj
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harsh-bhardwaj-90586a205/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshsfd/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Harshsfd)
 [![Email](https://img.shields.io/badge/Email-harshbhardwaj1511@gmail.com-red?style=flat&logo=gmail)](mailto:harshbhardwaj1511@gmail.com)
 
