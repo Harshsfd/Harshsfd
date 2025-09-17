@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-Hello! I'm Harsh Bhardwaj, a dedicated Front-End Developer and B.Tech student specializing in Computer Science Engineering at [State Institute of Engineering & Technology, Nilokheri](https://www.siet.ac.in). I’m passionate about crafting user-centric, immersive digital experiences and continuously expanding my technical skill set.
+Hello! I'm Harsh Bhardwaj,a dedicated Front-End Developer and B.Tech student specializing in Computer Science Engineering at [State Institute of Engineering & Technology, Nilokheri](https://www.siet.ac.in). I’m passionate about crafting user-centric, immersive digital experiences and continuously expanding my technical skill set.
 
 ---
 
