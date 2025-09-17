@@ -1,125 +1,78 @@
-# Harsh Bhardwaj
+<h1 align="center">Hi <img src="https://github.com/harshbhardwaj/harshbhardwaj/blob/main/icons/hi.gif" width="28px"/>, I'm Harsh Bhardwaj</h1>
+<h3 align="center">Frontend Developer | AI Developer | Web Developer</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshsfd)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Harshsfd)
-[![Email](https://img.shields.io/badge/Email-harshbhardwajsfd@gmail.com-red?style=flat&logo=gmail)](mailto:harshbhardwajsfd@gmail.com)
+<p align="center">
+  <a href="https://github.com/harshbhardwaj" target="_blank">
+    <img src="https://img.shields.io/github/followers/harshbhardwaj?label=Follow&style=social" alt="GitHub followers"/>
+  </a>
+  <a href="https://linkedin.com/in/harshbhardwaj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-HarshB-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/harshbhardwaj" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/harshbhardwaj?style=social" alt="Twitter Follow"/>
+  </a>
+</p>
 
----
-
-## 👋 About Me
-
-Hello! I'm Harsh Bhardwaj,a dedicated Front-End Developer and B.Tech student specializing in Computer Science Engineering at [State Institute of Engineering & Technology, Nilokheri](https://www.siet.ac.in). I’m passionate about crafting user-centric, immersive digital experiences and continuously expanding my technical skill set.
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science Engineering**  
-*State Institute of Engineering & Technology, Nilokheri*  
-2022 - 2025  
-**CGPA:** 7.5
-
-**Diploma in Computer Science**  
-*Guru Brahmanand Ji Govt. Polytechnic, Nilokheri*  
-2019 - 2022  
-**CGPA:** 7.90
-
-**Secondary (X)**  
-*Saraswati Vidya Mandir Senior Secondary School, Safidon*  
-2019  
-**CGPA:** 8.00
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshbhardwaj&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 ---
 
-## 💼 Experience
+## About Me
 
-**Full Stack Developer**
-*Extion Infotech*
-July 2024 - Sep 2024
-- 8 Weeks Internship and also complete a 4 task create a project like - Qwiz Game, portfolio, ecommerce website and E learning website
-
-**Junior Software Developer**  
-*Pie Infocomm Pvt. Ltd., Noida*  
-Jun 2022 - Aug 2022  
-- Received a job offer during diploma campus placement but opted to focus on further studies.
-
-**Front-End Web Developer**  
-*My Academy, Virtual*  
-May 2021 - Aug 2021  
-- Developed an e-learning website as my first front-end project.  
-- Enhanced technical and non-technical skills.
+👋 Hello! I'm **Harsh Bhardwaj**, passionate about crafting engaging frontend experiences, building smart AI solutions, and developing robust web applications. I love to write clean, efficient code and continuously learn new technologies.
 
 ---
 
-## 🛠️ Skills
+## 🔧 Technologies & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-HTML5-orange?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-CSS3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-yellow?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-Python-blue?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/SQL-SQL-lightgrey?style=flat&logo=sqlite)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Bootstrap-purple?style=flat&logo=bootstrap)
-![C++](https://img.shields.io/badge/C%2B%2B-C%2B%2B-blue?style=flat&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-Java-red?style=flat&logo=java)
-![PHP](https://img.shields.io/badge/PHP-PHP-blue?style=flat&logo=php)
-![WordPress](https://img.shields.io/badge/WordPress-WordPress-blue?style=flat&logo=wordpress)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-Google_Analytics-blue?style=flat&logo=google-analytics)
-![Node.js](https://img.shields.io/badge/Node.js-Node.js-green?style=flat&logo=node.js)
-![Data Structures](https://img.shields.io/badge/Data_Structures-Data_Structures-green?style=flat)
+<div align="center">
 
----
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-## 📚 Training & Certifications
-
-[![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-Udemy-brightgreen?style=flat&logo=udemy)](https://www.udemy.com/course/bootstrap-5/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-HackerRank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/)
-[![Google Analytics](https://img.shields.io/badge/Google_Analytics-Google-blue?style=flat&logo=google)](https://analytics.google.com/)
-[![SQL](https://img.shields.io/badge/SQL_HackerRank-HackerRank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/)
-[![Python](https://img.shields.io/badge/Python-HackerRank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/)
-[![Android Web Development](https://img.shields.io/badge/Android_Web_Development-LearnVern-blue?style=flat&logo=learnvern)](https://www.learnvern.com/)
-[![CSS3](https://img.shields.io/badge/CSS3-Sololearn-blue?style=flat&logo=sololearn)](https://www.sololearn.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-Sololearn-blue?style=flat&logo=sololearn)](https://www.sololearn.com/)
+</div>
 
 ---
 
-## 🚀 Projects
+## 📈 GitHub Stats
 
-- **[SIET Resume-Generator](https://harshsfd.github.io/Siet-Resume-Generator/)**  
-  A web application to create and download resumes in PDF format.
-
-- **[Coding Gyan](https://harshsfd.github.io/CodingGyan/)**  
-  An e-learning platform offering courses and certifications for students.
-
-- **[Acme Web Design](https://harshsfd.github.io/AcmeWebDesign/)**  
-  A project showcasing web design tools and techniques.
-
-- **[i-coder](https://harshsfd.github.io/i-coder/)**  
-  A beginner-friendly front-end project for Computer Science students.
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=harshbhardwaj&show_icons=true&theme=radical&count_private=true" alt="Harsh Bhardwaj's GitHub stats" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshbhardwaj&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🌟 Positions of Responsibility
+## 📫 Connect with Me
 
-- Effective communicator and information collector.
-- Leader of college group.
-- Creative problem solver and team player.
-
----
-
-## 🎯 Work Samples
-
-- **[GitHub Profile](https://github.com/Harshsfd)**
-
----
-
-## 🎨 Hobbies & Interests
-
-- Coding
-- Cricket
-- Basketball
-- Singing
-- Video & Photo Editing
+<p align="center">
+  <a href="mailto:harshbhardwaj@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/harshbhardwaj">
+    <img src="https://img.shields.io/badge/LinkedIn-HarshB-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/harshbhardwaj">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://harshbhardwaj.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=AboutMe&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-Feel free to connect with me for collaborations, opportunities, or just to chat about technology and beyond!
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" />
+</div>
+
+<p align="center"><em>Let’s build awesome things together! 🚀</em></p>
