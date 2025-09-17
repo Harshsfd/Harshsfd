@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/harshsfd/harshsfd/blob/main/icons/hi.gif" width="28px"/>, I'm Harsh Bhardwaj</h1>
+<h1 align="center">Hi, I'm Harsh Bhardwaj</h1>
 <h3 align="center">Frontend Developer | AI Developer | Web Developer</h3>
 
 <p align="center">
@@ -7,9 +7,6 @@
   </a>
   <a href="https://linkedin.com/in/harshsfd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-HarshB-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/harshbhardwaj" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/harshbhardwaj?style=social" alt="Twitter Follow"/>
   </a>
 </p>
 
