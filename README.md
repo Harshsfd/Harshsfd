@@ -1,9 +1,9 @@
-<h1 align="center">Hi <img src="https://github.com/harshbhardwaj/harshbhardwaj/blob/main/icons/hi.gif" width="28px"/>, I'm Harsh Bhardwaj</h1>
+<h1 align="center">Hi <img src="https://github.com/harshsfd/harshsfd/blob/main/icons/hi.gif" width="28px"/>, I'm Harsh Bhardwaj</h1>
 <h3 align="center">Frontend Developer | AI Developer | Web Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/harshbhardwaj" target="_blank">
-    <img src="https://img.shields.io/github/followers/harshbhardwaj?label=Follow&style=social" alt="GitHub followers"/>
+  <a href="https://github.com/harshsfd" target="_blank">
+    <img src="https://img.shields.io/github/followers/harshsfd?label=Follow&style=social" alt="GitHub followers"/>
   </a>
   <a href="https://linkedin.com/in/harshbhardwaj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-HarshB-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -55,16 +55,13 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:harshbhardwaj@example.com">
+  <a href="mailto:harshbhardwajsfd@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/harshbhardwaj">
+  <a href="https://linkedin.com/in/harshsfd">
     <img src="https://img.shields.io/badge/LinkedIn-HarshB-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/harshbhardwaj">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://harshbhardwaj.dev" target="_blank">
+  <a href="https://harshbhardwaj-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=AboutMe&logoColor=white" alt="Portfolio" />
   </a>
 </p>
