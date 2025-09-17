@@ -5,7 +5,7 @@
   <a href="https://github.com/harshsfd" target="_blank">
     <img src="https://img.shields.io/github/followers/harshsfd?label=Follow&style=social" alt="GitHub followers"/>
   </a>
-  <a href="https://linkedin.com/in/harshbhardwaj" target="_blank">
+  <a href="https://linkedin.com/in/harshsfd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-HarshB-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/harshbhardwaj" target="_blank">
