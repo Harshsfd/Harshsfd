@@ -419,8 +419,6 @@ Experimenting with intelligent developer-focused systems and next-generation AI 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshsfd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshsfd&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
 
 <br><br>
