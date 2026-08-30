@@ -437,10 +437,6 @@ Experimenting with intelligent developer-focused systems and next-generation AI 
 
 <img src="https://raw.githubusercontent.com/Harshsfd/Harshsfd/output/github-contribution-grid-snake-dark.svg" width="92%" alt="GitHub Contribution Snake"/>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshsfd&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="Contribution Graph"/>
-
 </div>
 
 ---
