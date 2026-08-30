@@ -1,137 +1,175 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=230&section=header&text=HARSH%20BHARDWAJ&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20AI%20%7C%20NETWORKING&descAlignY=62&descSize=16&animation=twinkling" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         HERO SECTION                           -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:1D4ED8,100:06B6D4&height=260&section=header&text=HARSH%20BHARDWAJ&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20AI%20%7C%20NETWORKING&descAlignY=61&descSize=16&animation=twinkling" width="100%"/>
 
 <br>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Backend+%26+API+Engineer+%E2%9A%A1;AI+%26+LLM+Enthusiast+%F0%9F%A4%96;MCP+%26+AI+Agents+Explorer+%F0%9F%A7%A0;Network+Engineer+%F0%9F%8C%90" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+%E2%80%A2+Full+Stack+Developer;Backend+%26+API+Engineer+%E2%80%A2+Python+%26+Node.js;AI+%26+LLM+Developer+%E2%80%A2+RAG+%26+Agents;MCP+Explorer+%E2%80%A2+Building+AI-Powered+Systems;Network+Engineer+%E2%80%A2+Enterprise+Infrastructure" alt="Typing Animation"/>
 
 <br><br>
 
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=Harshsfd&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Harshsfd&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
 
 <br><br>
-
-<!-- SOCIAL BUTTONS -->
 
 <a href="https://github.com/Harshsfd">
-<img src="https://img.shields.io/badge/GitHub-Harshsfd-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/harshsfd/">
-<img src="https://img.shields.io/badge/LinkedIn-Harsh%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:harshbhardwajsfd@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://harshbhardwaj-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://harshbhardwaj-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILDING-0F172A?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%26%20LLMs-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/NETWORKING-0F766E?style=flat-square"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# `01` — About Me
 
-<div align="center">
+<table>
+<tr>
+<td width="62%" valign="top">
 
-### 🚀 Software Engineer | Full Stack Developer | AI Enthusiast
+### 👋 Hey, I'm Harsh.
 
-</div>
+I'm a **Computer Science Engineer & Software Developer** passionate about building practical products across **Web, Backend, AI and Infrastructure**.
 
-I'm **Harsh Bhardwaj**, a Computer Science Engineer focused on building **modern web applications, backend systems, AI-powered solutions and developer tools**.
+I enjoy turning ideas into production-ready systems — from responsive React interfaces and REST APIs to **LLM-powered applications, RAG pipelines, MCP systems and AI agents**.
 
-I work across the stack with **Python, Django, React.js, Node.js, Express.js, MongoDB and REST APIs**, while exploring the rapidly evolving world of **LLMs, RAG, MCP and AI Agents**.
+My background in enterprise networking also gives me a strong understanding of the infrastructure layer behind modern software.
 
-I also have hands-on experience in **enterprise networking and NOC operations**, giving me a broader understanding of the infrastructure behind modern applications.
+<br>
 
-### ⚡ Currently Focused On
+**What I build**
+
+* 🧩 Full-stack web applications
+* ⚙️ Backend systems & REST APIs
+* 🤖 AI / LLM applications
+* 🧠 RAG & AI Agent systems
+* 🔌 MCP-based developer tools
+* 🌐 Network & infrastructure solutions
+* ☁️ Cloud-ready applications
+
+</td>
+
+<td width="38%" valign="top">
+
+### ⚡ Current Direction
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   💻 Full Stack Development                                  │
-│   🤖 AI / LLM Applications                                   │
-│   🧠 RAG • MCP • AI Agents                                   │
-│   ⚙️ Backend & REST API Engineering                          │
-│   🌐 Network Automation & Infrastructure                      │
-│   🚀 Cloud • DevOps • Deployment                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-````
+┌──────────────────────────┐
+│                          │
+│  FULL STACK              │
+│       ↓                  │
+│  BACKEND + APIs          │
+│       ↓                  │
+│  AI / LLM                │
+│       ↓                  │
+│  RAG + AGENTS            │
+│       ↓                  │
+│  MCP + AUTOMATION        │
+│       ↓                  │
+│  CLOUD + DEVOPS          │
+│                          │
+└──────────────────────────┘
+```
+
+**Mindset**
+
+> Learn → Build → Ship → Improve
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Tech Stack
+# `02` — Tech Arsenal
 
 <div align="center">
 
-## 💻 Languages
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c" alt="Programming Languages"/>
-
-<br><br>
-
-## 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,bootstrap" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c&theme=dark"/>
 
 <br><br>
 
-## ⚙️ Backend
+### 🎨 Frontend Engineering
 
-<img src="https://skillicons.dev/icons?i=django,nodejs,express" alt="Backend Technologies"/>
-
-<br><br>
-
-## 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,bootstrap&theme=dark"/>
 
 <br><br>
 
-## 🔧 Tools & DevOps
+### ⚙️ Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,docker,linux" alt="Tools and DevOps"/>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express&theme=dark"/>
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=dark"/>
+
+<br><br>
+
+### ☁️ Tools • DevOps • Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel,netlify&theme=dark"/>
 
 </div>
 
 ---
 
-# 🤖 AI & LLM
+# `03` — AI / LLM Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/GEMINI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/GROQ-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 <br><br>
 
-`LLMs` • `RAG` • `Embeddings` • `AI Agents` • `MCP` • `Prompt Engineering`
+`LLMs`  •  `RAG`  •  `Embeddings`  •  `FAISS`  •  `AI Agents`  •  `MCP`  •  `Prompt Engineering`
 
 </div>
 
 ---
 
-# 🌐 Networking
+# `04` — Networking
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TCP%2FIP-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-020617?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MPLS-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SD--WAN-06B6D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VPN-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cisco%20IOS-Cisco?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/CISCO%20IOS-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 <br><br>
 
@@ -141,35 +179,33 @@ I also have hands-on experience in **enterprise networking and NOC operations**,
 
 ---
 
-# 🚀 Featured Projects
+# `05` — Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🎓 Achievers Study Abroad
+## 🎓 A-SAC
 
-### A-SAC
+### Achievers Study Abroad
 
-Production-grade education platform built for the study-abroad ecosystem.
+Production-oriented education platform designed for the study-abroad ecosystem.
 
-**Stack**
+**Technology**
 
 `React.js` `TypeScript`
-
 `Tailwind CSS` `Framer Motion`
-
 `EmailJS` `SEO`
 
 **Highlights**
 
-* ⚡ Modern React architecture
-* 🎨 Responsive interface
-* ✨ Smooth animations
-* 📧 Lead generation
-* 🔎 SEO optimization
-* 📱 Mobile-first experience
+⚡ Modern React architecture
+🎨 Responsive UI
+✨ Smooth animations
+📧 Lead generation
+🔎 SEO optimization
+📱 Mobile-first design
 
 </td>
 
@@ -179,21 +215,20 @@ Production-grade education platform built for the study-abroad ecosystem.
 
 ### Multi-Model AI Platform
 
-AI chatbot integrating multiple leading AI providers into one interface.
+AI platform bringing multiple leading AI providers into a unified chat experience.
 
-**AI Providers**
+**Providers**
 
 `OpenAI` `Groq` `Gemini`
-
 `Mistral` `Anthropic`
 
 **Highlights**
 
-* 🔄 Real-time streaming
-* 🔀 Model switching
-* 🔐 Secure API authentication
-* ⚡ Multi-provider architecture
-* 💬 Modern chat experience
+🔄 Real-time streaming
+🔀 Model switching
+🔐 Secure authentication
+⚡ Multi-provider architecture
+💬 Modern chat experience
 
 </td>
 
@@ -203,11 +238,11 @@ AI chatbot integrating multiple leading AI providers into one interface.
 
 <td width="50%" valign="top">
 
-## 🔌 MCP Showcase Platform
+## 🔌 MCP Showcase
 
 ### Model Context Protocol
 
-Full-stack platform focused on showcasing MCP projects and integrations.
+Full-stack platform focused on MCP projects, integrations and experimentation.
 
 **Stack**
 
@@ -215,11 +250,11 @@ Full-stack platform focused on showcasing MCP projects and integrations.
 
 **Highlights**
 
-* 🔌 MCP-focused architecture
-* ⚛️ React frontend
-* 🟢 Node.js backend
-* 🔐 Modular APIs
-* 📦 Scalable architecture
+🔌 MCP architecture
+⚛️ React frontend
+🟢 Node.js backend
+🔐 Modular APIs
+📦 Scalable structure
 
 </td>
 
@@ -229,14 +264,12 @@ Full-stack platform focused on showcasing MCP projects and integrations.
 
 ### Exploring What's Next
 
-Building and experimenting with intelligent developer-focused systems.
+Experimenting with intelligent developer-focused systems and next-generation AI workflows.
 
 **Exploring**
 
 `LLMs` `RAG`
-
 `MCP` `AI Agents`
-
 `Embeddings` `AI APIs`
 
 </td>
@@ -246,59 +279,59 @@ Building and experimenting with intelligent developer-focused systems.
 
 ---
 
-# 💼 Professional Experience
+# `06` — Professional Experience
 
-## 🟢 Network Engineer L1.5
+### 🟢 Network Engineer L1.5
 
 **Diversified Network and Infra Solutions Pvt. Ltd.**
 
-`Oct 2025 — Present`
-
-📍 **Airtel UNOC — Manesar, Gurugram**
+`Oct 2025 — Present`   •   `Airtel UNOC — Manesar, Gurugram`
 
 ```text
-                    🌐 ENTERPRISE NETWORK
-                            │
-             ┌──────────────┼──────────────┐
-             │              │              │
-           MPLS           SD-WAN          VPN
-             │              │              │
-             └──────────────┼──────────────┘
-                            │
-                            ▼
-                     🔧 TROUBLESHOOTING
-                            │
-              ┌─────────────┼─────────────┐
-              │             │             │
-             P2P           ILL          FIBER
-              │             │             │
-              └─────────────┼─────────────┘
-                            │
-                            ▼
-                     📡 NOC COORDINATION
-                            │
-                            ▼
-                       ⏱️ SLA RESOLUTION
+                    ┌─────────────────────┐
+                    │   ENTERPRISE NOC    │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+             MPLS            SD-WAN            VPN
+              │                │                │
+              └────────────────┼────────────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │  TROUBLESHOOTING    │
+                    └──────────┬──────────┘
+                               │
+                 ┌─────────────┼─────────────┐
+                 │             │             │
+                P2P           ILL           FIBER
+                 │             │             │
+                 └─────────────┼─────────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │  INCIDENT / SLA     │
+                    │     RESOLUTION      │
+                    └─────────────────────┘
 ```
 
-### Responsibilities
+**Core Responsibilities**
 
-* 🔧 Troubleshoot enterprise connectivity issues
-* 🌐 Work with MPLS, ILL, SD-WAN, VPN and P2P circuits
-* 📡 Perform link and connectivity troubleshooting
-* 🔍 Investigate ONT, ports, fiber and link status
-* 🤝 Coordinate with NOC and field teams
-* ⏱️ Support SLA-driven incident resolution
+* 🔧 Enterprise connectivity troubleshooting
+* 🌐 MPLS, ILL, SD-WAN, VPN & P2P circuits
+* 📡 Link and connectivity analysis
+* 🔍 ONT, port, fiber and link-status investigation
+* 🤝 NOC & field-team coordination
+* ⏱️ SLA-driven incident resolution
 
 ---
 
-## 🔵 Junior Software Developer Intern
+### 🔵 Junior Software Developer Intern
 
 **Pie Infocomm Pvt. Ltd.**
 
-`Aug 2022 — Sep 2022`
-
-📍 Noida, India
+`Aug 2022 — Sep 2022`   •   `Noida, India`
 
 * 🐍 Developed web modules using **Python & Django**
 * ⚡ Improved internal process efficiency by **30%**
@@ -309,11 +342,11 @@ Building and experimenting with intelligent developer-focused systems.
 
 ---
 
-# 🏆 Achievements
+# `07` — Achievements
 
 <div align="center">
 
-| 🏅 Achievement                  |       📊 Result      |
+| 🏆 Achievement                  |       📊 Result      |
 | :------------------------------ | :------------------: |
 | 💻 Coding Challenges            |       **150+**       |
 | 🥈 Project Display Event        | **2nd Place — 2024** |
@@ -325,135 +358,127 @@ Building and experimenting with intelligent developer-focused systems.
 
 ---
 
-# 🧠 Engineering Mindset
+# `08` — Engineering Philosophy
 
 <div align="center">
 
 ```text
-                         💡 IDEA
-                           │
-                           ▼
-                       🎨 DESIGN
-                           │
-                           ▼
-                        ⚙️ BUILD
-                           │
-                           ▼
-                        🧪 TEST
-                           │
-                           ▼
-                       🚀 DEPLOY
-                           │
-                           ▼
-                       📈 IMPROVE
-                           │
-                           ▼
-                        🔁 REPEAT
+       💡 IDEA
+          │
+          ▼
+      🎨 DESIGN
+          │
+          ▼
+       ⚙️ BUILD
+          │
+          ▼
+       🧪 TEST
+          │
+          ▼
+      🚀 DEPLOY
+          │
+          ▼
+      📈 IMPROVE
+          │
+          └───────────────┐
+                          ▼
+                       🔁 REPEAT
 ```
 
-### "Think deeply. Build simply. Ship consistently."
+### **Think deeply. Build simply. Ship consistently.**
 
 </div>
 
 ---
 
-# 🎯 2026 Focus
+# `09` — 2026 Focus
 
 <div align="center">
 
-## BUILD • LEARN • SHIP • REPEAT
+## `BUILD` • `LEARN` • `SHIP` • `REPEAT`
 
 <br>
 
-`FULL STACK` • `AI / LLM` • `MCP` • `AI AGENTS`
+<img src="https://img.shields.io/badge/FULL%20STACK-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20LLM-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20AGENTS-0891B2?style=for-the-badge"/>
 
-`BACKEND` • `CLOUD` • `DEVOPS` • `NETWORK AUTOMATION`
+<br>
 
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harshsfd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshsfd&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top Languages"/>
+<img src="https://img.shields.io/badge/BACKEND-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CLOUD-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEVOPS-475569?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NETWORK%20AUTOMATION-1D4ED8?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# `10` — GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Harshsfd&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshsfd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshsfd&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Harshsfd&theme=tokyonight&hide_border=true&border_radius=12" width="70%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# `11` — Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Harshsfd/Harshsfd/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Harshsfd/Harshsfd/output/github-contribution-grid-snake-dark.svg" width="92%" alt="GitHub Contribution Snake"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshsfd&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# `12` — Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshsfd&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Harsh Bhardwaj Contribution Graph"/>
+### 🚀 Building something interesting?
 
-</div>
+I'm always interested in **software engineering, AI, developer tools, full-stack systems and infrastructure**.
 
----
-
-# 📫 Let's Connect
-
-<div align="center">
+<br>
 
 <a href="mailto:harshbhardwajsfd@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harshsfd/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Harshsfd">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://harshbhardwaj-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
 
-### 💙 Thanks for visiting my profile!
+### 💙 Thanks for visiting my profile.
 
-### 🚀 Let's build something amazing together.
+### `Let's build something remarkable.`
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=140&section=footer&animation=twinkling" width="100%" alt="Footer"/>
-```
-
-### ⚠️ One important thing
-
-Tumhara **Snake** already `output` branch se aa raha hai, so is line ko **change mat karna**:
-
-```html
-<img src="https://raw.githubusercontent.com/Harshsfd/Harshsfd/output/github-contribution-grid-snake-dark.svg" width="90%" />
-```
-
-Aur tumhara GitHub username har jagah **`Harshsfd`** hi rakha hai — purane README mein jo `harshbhardwaj` username tha, woh hata diya hai. This is important for your stats, streak, contribution graph, and profile counter.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:020617&height=150&section=footer&animation=twinkling" width="100%" alt="Footer"/>
